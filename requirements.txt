@@ -1,0 +1,5 @@
+inspect-ai
+openai
+requests
+jupyter
+ipykernel
