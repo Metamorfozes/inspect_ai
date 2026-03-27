@@ -6,3 +6,5 @@ __pycache__/
 .DS_Store
 logs/
 *.eval
+.hf_home/
+.jupyter/
