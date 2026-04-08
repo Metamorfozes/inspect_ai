@@ -8,3 +8,5 @@ logs/
 *.eval
 .hf_home/
 .jupyter/
+.inspect_cache/
+.inspect_data/
